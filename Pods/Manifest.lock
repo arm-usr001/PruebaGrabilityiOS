@@ -1,0 +1,20 @@
+PODS:
+  - SwiftlyCache (1.1.8)
+  - YouTubePlayer (0.7.2)
+
+DEPENDENCIES:
+  - SwiftlyCache
+  - YouTubePlayer
+
+SPEC REPOS:
+  trunk:
+    - SwiftlyCache
+    - YouTubePlayer
+
+SPEC CHECKSUMS:
+  SwiftlyCache: 166de69910162c0ea5487921eececbe27252fdda
+  YouTubePlayer: 2b5f2830d8f9b2cde942083211291e382c9e6bd5
+
+PODFILE CHECKSUM: 9dded76e5fb80b35914dfbb86697a2a506ab4339
+
+COCOAPODS: 1.10.1
